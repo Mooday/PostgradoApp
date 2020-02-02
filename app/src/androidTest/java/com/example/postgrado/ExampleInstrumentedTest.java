@@ -1,4 +1,4 @@
-package com.example.pregrado;
+package com.example.postgrado;
 
 import android.content.Context;
 
